@@ -1,5 +1,7 @@
 # Author
 Jake Elms
+# Co Author
+John Smith
 # Title
 Reactions of carbonate minerals within the high pressure turbines of gas turbine engines
 # Introduction
